@@ -15,7 +15,9 @@
   "dependencies": {
     "pinia": "^2.0.21",
     "vue": "^3.2.38",
-    "vue-router": "^4.1.5"
+    "vue-router": "^4.1.5",
+    "google-protobuf": "^3.6.1",
+    "grpc-web": "^1.0.0"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.1.4",
